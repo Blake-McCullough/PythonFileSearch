@@ -1,6 +1,7 @@
 #Made By Blake McCullough
-#Discord- Spoiled_Kitten#4911
-#Github- https://github.com/Blake-McCullough/
+#Discord - Spoiled_Kitten#4911
+#Github - https://github.com/Blake-McCullough/
+#Email - privblakemccullough@protonmail.com
 
 
 #Importing the module 
